@@ -1,3 +1,4 @@
 # akshaykamkhalia.github.io
-MSML602 
+**MSML602** 
+
 Akshay Kamkhalia
